@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/margaretPortfolio/static/css/main.1acb98d5.css",
+    "main.js": "/margaretPortfolio/static/js/main.579694c2.js",
+    "static/js/787.128fc6e9.chunk.js": "/margaretPortfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Margaret-best.jpg": "/margaretPortfolio/static/media/Margaret-best.bcfd1eefcec497ca5fca.jpg",
+    "static/media/Margaret1.jpg": "/margaretPortfolio/static/media/Margaret1.57b69161e779d12f9126.jpg",
+    "static/media/Gallery3.jpg": "/margaretPortfolio/static/media/Gallery3.f6f1f3f2e72c6c13e978.jpg",
+    "static/media/g5.jpg": "/margaretPortfolio/static/media/g5.def5a23d21d168020074.jpg",
+    "static/media/g9.jpg": "/margaretPortfolio/static/media/g9.20f7b3f218312c73c70e.jpg",
+    "static/media/g1.jpg": "/margaretPortfolio/static/media/g1.267e146b9a719f96c458.jpg",
+    "static/media/g7.jpg": "/margaretPortfolio/static/media/g7.2edc8f917b236a4bae11.jpg",
+    "static/media/g2.jpg": "/margaretPortfolio/static/media/g2.9b98232b82180f3c47d8.jpg",
+    "static/media/Gallery2.jpg": "/margaretPortfolio/static/media/Gallery2.a2ddf356ef0fba25ff17.jpg",
+    "static/media/g6.jpg": "/margaretPortfolio/static/media/g6.1d459b8287b1289a9383.jpg",
+    "static/media/g18.jpg": "/margaretPortfolio/static/media/g18.8f82f5789d5955a21339.jpg",
+    "static/media/g14.jpg": "/margaretPortfolio/static/media/g14.9491e8bf6f3f95630cd8.jpg",
+    "static/media/g4.jpg": "/margaretPortfolio/static/media/g4.5b35f8975c9f1840a9a9.jpg",
+    "static/media/g13.jpg": "/margaretPortfolio/static/media/g13.18e36ad6cd635c4ea05e.jpg",
+    "static/media/g15.jpg": "/margaretPortfolio/static/media/g15.b4ef8be38f694891165a.jpg",
+    "static/media/g8.jpg": "/margaretPortfolio/static/media/g8.1562ade10fbc3d0f92b0.jpg",
+    "static/media/g3.jpg": "/margaretPortfolio/static/media/g3.c0defb4e769ca391200f.jpg",
+    "static/media/g16.jpg": "/margaretPortfolio/static/media/g16.17ca666eb68530374e25.jpg",
+    "static/media/Gallery1.jpg": "/margaretPortfolio/static/media/Gallery1.6985624f7e782b16a8de.jpg",
+    "static/media/Cv Biato.docx": "/margaretPortfolio/static/media/Cv Biato.2da58abb2b8ed2ec13f6.docx",
+    "index.html": "/margaretPortfolio/index.html",
+    "main.1acb98d5.css.map": "/margaretPortfolio/static/css/main.1acb98d5.css.map",
+    "main.579694c2.js.map": "/margaretPortfolio/static/js/main.579694c2.js.map",
+    "787.128fc6e9.chunk.js.map": "/margaretPortfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acb98d5.css",
+    "static/js/main.579694c2.js"
+  ]
+}
