@@ -29,7 +29,7 @@ const Professional = () => {
                 <i class='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className='skills_name'>Coordinated the conduct of Situation Analysis and Needs Assessment of OVC in Ekiti State 
+                    <h3 className='skills_name'>Coordinated the conduct of Situation Analysis and Needs Assessment of OVC in Ekiti State 
                     collaboration with Pact Nigeria, MSH, USAID and Ekiti State Action Committee on HIV& AIDS</h3>
                     <span className='skills_level'>2012</span>
                 </div>

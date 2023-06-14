@@ -125,14 +125,48 @@ const Services = () => {
               0ctober, 2022
               </p>
             </li>
+            <li className='services_modal-service'>
+              <i className='uil uil-check-circle
+              services_modal-icon'></i>
+              <p className='services_modal-info'>
+              An award of Humanitarian Services in recognition of supports towards achieving 
+              Women/Girls Empowerment and Gender Equality in Ekiti State,Nigeria through innovative 
+              leadership by Balm of Gilead Foundation for Sustainable Development( BIGIF). 2021
+              </p>
+            </li>
+            <li className='services_modal-service'>
+              <i className='uil uil-check-circle
+              services_modal-icon'></i>
+              <p className='services_modal-info'>
+              An award as the Best Song Composer by All Saints Anglican Church, 
+              Ado-Ekiti,Ekiti State, Nigeria. 2019
+              </p>
+            </li>
 
             <li className='services_modal-service'>
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
               Rurality and the Girl Child Education; Prospects and Challenges for National Development, (Afolabi, C. 
-              Y,Adedeji, A. O; Babafemi O. M. Ologuntoye, M. A. Adehsoye, O. I. Faseluka W. K... 
+              Y,Adedeji, A. O; Babafemi O. M. Ologuntoye, M. A. Adehsoye, O. I. Faseluka W. K. 
               2017
+              </p>
+            </li>
+            <li className='services_modal-service'>
+              <i className='uil uil-check-circle
+              services_modal-icon'></i>
+              <p className='services_modal-info'>
+              An award of Distinguished Personality in recognition of positive contributions to the 
+              growth of music in the church by Voice of Peace Singers, Ado -EkitiEkiti State, Nigeria. 2012
+              </p>
+            </li>
+
+            <li className='services_modal-service'>
+              <i className='uil uil-check-circle
+              services_modal-icon'></i>
+              <p className='services_modal-info'>
+              An award of Excellence to the propagation of the gospel by the 
+              Youth Forum, All Saints Anglican Church, Ado-Ekiti,Ekiti State, Nigeria. 2010
               </p>
             </li>
           </ul>

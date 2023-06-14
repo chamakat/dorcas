@@ -70,7 +70,7 @@
 
 .services_modal-close {
     position: absolute;
-    top: 1.5rem;
+    top: 2.5rem;
     right: 1.5rem;
     font-size: 1.5rem;
     color: var(--title-color);
@@ -106,7 +106,7 @@
 }
 
 .services_modal-info {
-    font-size: var(--small-font-color);
+    font-size: var(--smaller-font-size);
 }
 
 /* Activate Modal */
