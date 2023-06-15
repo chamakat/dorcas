@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/margaretPortfolio/static/css/main.1acb98d5.css",
-    "main.js": "/margaretPortfolio/static/js/main.579694c2.js",
+    "main.css": "/margaretPortfolio/static/css/main.e4bbdba4.css",
+    "main.js": "/margaretPortfolio/static/js/main.dfcec0de.js",
     "static/js/787.128fc6e9.chunk.js": "/margaretPortfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Margaret-best.jpg": "/margaretPortfolio/static/media/Margaret-best.bcfd1eefcec497ca5fca.jpg",
     "static/media/Margaret1.jpg": "/margaretPortfolio/static/media/Margaret1.57b69161e779d12f9126.jpg",
@@ -24,12 +24,12 @@
     "static/media/Gallery1.jpg": "/margaretPortfolio/static/media/Gallery1.6985624f7e782b16a8de.jpg",
     "static/media/Cv Biato.docx": "/margaretPortfolio/static/media/Cv Biato.2da58abb2b8ed2ec13f6.docx",
     "index.html": "/margaretPortfolio/index.html",
-    "main.1acb98d5.css.map": "/margaretPortfolio/static/css/main.1acb98d5.css.map",
-    "main.579694c2.js.map": "/margaretPortfolio/static/js/main.579694c2.js.map",
+    "main.e4bbdba4.css.map": "/margaretPortfolio/static/css/main.e4bbdba4.css.map",
+    "main.dfcec0de.js.map": "/margaretPortfolio/static/js/main.dfcec0de.js.map",
     "787.128fc6e9.chunk.js.map": "/margaretPortfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1acb98d5.css",
-    "static/js/main.579694c2.js"
+    "static/css/main.e4bbdba4.css",
+    "static/js/main.dfcec0de.js"
   ]
 }
