@@ -42,9 +42,9 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                President, Association of the Wife of the Head of 
-                Service/Permanent Secretaries and Female Permanent Secretaries. 
-                2019
+                Executive Officer, Project and Programs Department, FEDERAL MINISTRY OF SPECIAL DUTIES 
+                AND INTERGOVERNMENTAL AFFAIRS, ABUJA.
+                2023-Present.
                 </p>
               </li>
 
@@ -52,8 +52,9 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                Secretary, State Action Committee on HIV &AIDS-Ministry of 
-                Women Affairs, Ekiti State.
+                Assistant Executive Officer, Director Human Resource Department, FEDERAL MINISTRY OF SPECIAL DUTIES
+                AND INTERGOVERNMENTAL AFFAIRS, ABUJA.
+                2022-2023.
                 </p>
               </li>
 
@@ -61,9 +62,9 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                Secretary to the Wife of Executive Governor (Ekiti State) 
-                on National Women Coalition on HIV/AIDS. 
-                2007-2008
+                Assistant Executive Officer, Director of Procurement Department, FEDERAL MINISTRY OF SPECIAL DUTIES
+                AND INTERGOVERNMENTAL AFFAIRS, ABUJA. 
+                2021-2022
                 </p>
               </li>
 
@@ -71,9 +72,9 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                Focal Officer/Secretary, State Steering Committee on 
-                Orphans and Vulnerable Children, Ekiti state. 
-                1998-2015
+                Assistant Executive Officer, Store Unit, FEDERAL MINISTRY OF SPECIAL DUTIES
+                AND INTERGOVERNMENTAL AFFAIRS, ABUJA. 
+                2019-2021
                 </p>
               </li>
 
@@ -81,9 +82,8 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                Focal Officer/Secretary, State Child’s Rights Implementation 
-                and Monitoring Committee, Ekiti State. 
-                1998-2015
+                Personal Assistant, Director of Project, JULIUS BARGER, ABUJA.  
+                2009
                 </p>
               </li>
             </ul>
@@ -95,8 +95,8 @@ const Services = () => {
       <div className='services_content'>
       <div>
       <i class="uil uil-award services_icon"></i>
-        <h3 className='services_title'>Award /<br />
-        Publication Peer Review Paper </h3>
+        <h3 className='services_title'>Certificates /<br />
+        Awarded </h3>
       </div>
 
       <span className='services_button' onClick={() =>
@@ -111,8 +111,7 @@ const Services = () => {
           <i onClick={() => toggleTab(0)} className='uil uil-times
           services_modal-close'></i>
 
-          <h3 className='services_modal-title'>Award /Publication 
-          Peer Review Paper (Published)</h3>
+          <h3 className='services_modal-title'>Certificates Awarded</h3>
           <p className='services_modal-description'></p>
 
           <ul className='services_modal-services grid'>
@@ -120,53 +119,44 @@ const Services = () => {
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
-              Certificate of recognition by the Governor of Ekiti State, Dr. John Kayode Fayemi 
-              for Contribution and Outstanding service to Ekiti State COVID-19 Taskforce. 
-              0ctober, 2022
+              Certificate, Capacity Building Workshop on Code of Ethics & PMS. THE PRESIDENCY, FEDERAL MINISTRY OF SPECIAL DUTIES
+              AND INTERGOVERNMENTAL AFFAIRS. 
+              November, 2023
               </p>
             </li>
             <li className='services_modal-service'>
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
-              An award of Humanitarian Services in recognition of supports towards achieving 
-              Women/Girls Empowerment and Gender Equality in Ekiti State,Nigeria through innovative 
-              leadership by Balm of Gilead Foundation for Sustainable Development( BIGIF). 2021
+              Certificate of Participation, GILFAI NIG. LTD. (Management Trainers & Consultants), On Specialized Capacity Building Workshop on Performance Management System.
+              FEDERAL MINISTRY OF SPECIAL DUTIES
+              AND INTERGOVERNMENTAL AFFAIRS.
+              November 2022
               </p>
             </li>
             <li className='services_modal-service'>
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
-              An award as the Best Song Composer by All Saints Anglican Church, 
-              Ado-Ekiti,Ekiti State, Nigeria. 2019
-              </p>
-            </li>
-
-            <li className='services_modal-service'>
-              <i className='uil uil-check-circle
-              services_modal-icon'></i>
-              <p className='services_modal-info'>
-              Rurality and the Girl Child Education; Prospects and Challenges for National Development, (Afolabi, C. 
-              Y,Adedeji, A. O; Babafemi O. M. Ologuntoye, M. A. Adehsoye, O. I. Faseluka W. K. 
-              2017
+              Certificate of Attendance, On Public Service Rules. Presented By GriTECH
+              August 2021
               </p>
             </li>
             <li className='services_modal-service'>
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
-              An award of Distinguished Personality in recognition of positive contributions to the 
-              growth of music in the church by Voice of Peace Singers, Ado -EkitiEkiti State, Nigeria. 2012
+              Certificate of National Service, NATIONAL YOUTH SERVICE CORPS 
+              May 2016
               </p>
             </li>
-
             <li className='services_modal-service'>
               <i className='uil uil-check-circle
               services_modal-icon'></i>
               <p className='services_modal-info'>
-              An award of Excellence to the propagation of the gospel by the 
-              Youth Forum, All Saints Anglican Church, Ado-Ekiti,Ekiti State, Nigeria. 2010
+              Diploma Certificate in Data Processing and Programming, By MULTI-LINKS COMPUTER SYSTEMS
+              November 2005  
+              May 2016
               </p>
             </li>
           </ul>

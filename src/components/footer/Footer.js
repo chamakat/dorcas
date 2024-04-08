@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className='footer'>
         <div className='footer_container container'>
-            <h1 className='footer_title'>Margaret</h1>
+            <h1 className='footer_title'>Dorcas</h1>
 
             <ul className='footer_list'>
                 <li>
@@ -28,7 +28,7 @@ const Footer = () => {
 
             <div className='footer_social'>
                 <a 
-                    href='https://facebook.com/lola.ologuntoye' 
+                    href='https://facebook.com/dorcas.john.10?mibextid=uzlsik' 
                     className='footer_social-icon' 
                     target='blank'
                     >
@@ -36,7 +36,7 @@ const Footer = () => {
                 </a>
         
                 <a 
-                    href='https://instagram.com/lologuntoye' 
+                    href='https://instagram.com/dorkeyjohn' 
                     className='footer_social-icon' 
                     target='blank'
                     >

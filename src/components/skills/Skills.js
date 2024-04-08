@@ -1,7 +1,5 @@
 import React from 'react'
-import Certified from './Certified';
 import Conferences from './Conferences';
-import Professional from './Professional';
 import './skills.css';
 
 
@@ -13,8 +11,6 @@ const Skills = () => {
 
     <div className='skills_container container grid'>
     <Conferences />
-    <Certified />
-    <Professional />
     </div>
     </section>
   )

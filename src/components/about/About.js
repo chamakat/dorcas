@@ -1,7 +1,7 @@
 import React from 'react';
 
-import CV from '../../assets/Cv Biato.docx';
-import AboutImg from '../../assets/Margaret-best.jpg';
+import CV from '../../assets/DORCAS CV.docx';
+import AboutImg from '../../assets/About-img.JPG';
 
 import Info from './Info';
 import './about.css';
@@ -18,9 +18,11 @@ const About = () => {
         <div className='about_data'>
           <Info />
 
-          <p className='about_description'>Health promotion/Health Communication, assessment and intervention, Social mobilization and community engagement; Program Development; Policy 
-          making and Implementation, Performance Planning & Report Management System, Technical Report Writing, Organizational Learning and Knowledge 
-          Management, capacity building and outcome mapping. 
+          <p className='about_description'>As an Executive Officer in the Federal Ministry of Special Duties and Intergovernmental Affairs, 
+          I've honed a diverse skill set in performance management systems, code of ethics implementation, production/operations management, and human resources.
+           My commitment to fostering efficient operations and maintaining high ethical standards has been integral to my success in navigating complex governmental environments.
+Driven by a passion for constant growth and skill enhancement, I am now seeking opportunities to leverage my expertise on a global scale.
+ 
           </p>
 
           <a download='' href={CV} className='button

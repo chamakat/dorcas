@@ -3,7 +3,7 @@ import React from 'react';
 const Data = () => {
   return (
     <div className='home_data'>
-        <h1 className='home_title'>MARGARET ADELOLA OLOGUNTOYE
+        <h1 className='home_title'>DORCAS CHAMAKAT JOHN
 
         <svg
                   width="36"
@@ -56,11 +56,11 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className='home_subtitle'>Profile Summary:</h3>
-        <p className='home_description'>A highly experienced Public Health Nurse and Social Work Specialist with 33 years public sector and non-profit working experience. Possesses 
-        expertise on planning, research and execution of humanitarian interventions and development projects across protection (child protection, GBV, Mental 
-        Health and Psychosocial Support); nutrition; food security; WASH; HIV/AIDS; reproductive health; tropical and non-tropical diseases; education; and 
-        policy making. Has an unparalleled exposure from working on projects funded by State Government and International Donors such as USAID, UNICEF, 
-        WHO, Pact Nigeria, US Embassy, World Bank and Global Fund.</p>
+        <p className='home_description'>As an Executive Officer in the Federal Ministry of Special Duties and Intergovernmental Affairs, 
+        I've honed a diverse skill set in performance management systems, code of ethics implementation, production operation management, and human resources. 
+        My commitment to fostering efficient operations and maintaining high ethical standards has been integral to my success in navigating complex governmental environments.
+Driven by a passion for constant growth and skill enhancement, I am now seeking opportunities to leverage my expertise on a global scale.
+</p>
     </div>
   );
 };

@@ -20,7 +20,7 @@ const Header = () => {
   return (
     <header className="header">
         <nav className="nav container">
-            <a href='index.html' className='nav_logo'>Margaret Adelola Ologuntoye</a>
+            <a href='index.html' className='nav_logo'>Dorcas Chamakat John</a>
 
             <div className= {Toggle ? "nav_menu show-menu" :"nav_menu"}>
                 <ul className='nav_list grid'>
