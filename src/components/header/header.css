@@ -4,7 +4,7 @@
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: var(--body-color);
+    background-color: rgba(205, 205, 226, 0.911);
 }
 
 .nav {
@@ -17,7 +17,7 @@
 
 .nav_logo,
 .nav_toggle {
-    color: var(--title-medium);
+    color: var(--tittle-midium);
     font-weight: var(--font-medium);
 }
 

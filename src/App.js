@@ -21,8 +21,8 @@ const App = () => {
         <Home />
         <About />
         <Services />
-        <Skills />
         <Qualification />
+        <Skills />
         <Gallery />
       </main>
 

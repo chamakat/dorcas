@@ -10,14 +10,6 @@ const Social = () => {
         <a href='https://facebook.com/dorcas.john.10?mibextid=uzlsik' className='home_social-icon' target='blank'>
         <i class="uil uil-facebook"></i>
         </a>
-
-        <a href='https://youtube.com/@endtrevtv7360' className='home_social-icon' target='blank'>
-        <i class="uil uil-youtube"></i>
-        </a>
-
-        <a href='https://twitter.com/lolaologuntoye?t=TbWDMzoz1iojXl6fx0mAcg&s=09' className='home_social-icon' target='blank'>
-        <i class="uil uil-twitter"></i>
-        </a>
     </div>
   )
 }

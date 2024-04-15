@@ -42,22 +42,6 @@ const Footer = () => {
                     >
                     <i class='bx bxl-instagram'></i>
                 </a>
-
-                <a 
-                    href='https://youtube.com/@endtrevtv7360' 
-                    className='footer_social-icon' 
-                    target='blank'
-                    >
-                    <i class='bx bxl-youtube'></i>
-                </a>
-        
-                <a 
-                    href='https://twitter.com/lolaologuntoye?t=TbWDMzoz1iojXl6fx0mAcg&s=09' 
-                    className='footer_social-icon' 
-                    target='blank'
-                    >
-                    <i class='bx bxl-twitter' ></i>
-                </a>
             </div>
 
             <span className='footer_copy'>

@@ -82,7 +82,7 @@ const Services = () => {
                 <i className='uil uil-check-circle
                 services_modal-icon'></i>
                 <p className='services_modal-info'>
-                Personal Assistant, Director of Project, JULIUS BARGER, ABUJA.  
+                Personal Assistant to the Director of Project, JULIUS BARGER, ABUJA.  
                 2009
                 </p>
               </li>
